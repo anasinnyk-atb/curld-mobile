@@ -1,1 +1,0 @@
-# curld-mobile
