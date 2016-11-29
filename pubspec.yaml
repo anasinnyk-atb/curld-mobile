@@ -1,5 +1,4 @@
-name: io
-description: A new flutter project.
+name: curld
 dependencies:
   flutter:
     sdk: flutter
