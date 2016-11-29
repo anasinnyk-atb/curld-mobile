@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './home_state.dart';
+import 'package:curld/curld/home_state.dart';
 
 class Home extends StatefulWidget {
   final String title = 'the endless\ncreativity\n& possibilities';

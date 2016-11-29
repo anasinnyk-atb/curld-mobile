@@ -1,4 +1,5 @@
 name: curld
 dependencies:
+  http:
   flutter:
     sdk: flutter

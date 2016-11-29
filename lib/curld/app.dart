@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import "./home.dart";
+import "package:curld/curld/home.dart";
 
 class CurldApp extends StatefulWidget {
   @override

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import './curld/app.dart';
-import './curld/home.dart';
+import 'package:curld/curld/app.dart';
 
 void main() {
   runApp(new CurldApp());
